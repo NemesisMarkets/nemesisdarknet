@@ -12,6 +12,9 @@ LINK : http://h4yzea726vb4bah55lpgxdm7q7d2n26pv5uxp27qtcfsjesdoiegfwyd.onion
 
 Official mirrors link - https://nemesis-markets.com/
 
+![image](https://github.com/NemesisMarkets/nemesisdarknet/assets/160327561/77b05191-7c40-425e-956d-b42a4fdc6000)
+
+
 ## Key Attributes of Nemesis Market
 
 Here are the key attributes defining Nemesis Market currently based on my trials:
