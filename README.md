@@ -6,9 +6,9 @@ Nemesis Market is a large and active darknet market and forum with over 1,000 ve
 
 ### Nemesis Marketplace Onion Link
 
-[Nemesis Marketplace](https://nemesis5a42d6yb6rhsic5scq5kroykitplnzvda33l4gxuhxtmqyrid.onion)
+[Nemesis Marketplace](http://nemesis5a42d6yb6rhsic5scq5kroykitplnzvda33l4gxuhxtmqyrid.onion)
 
-LINK : https://nemesis5a42d6yb6rhsic5scq5kroykitplnzvda33l4gxuhxtmqyrid.onion
+LINK : http://nemesis5a42d6yb6rhsic5scq5kroykitplnzvda33l4gxuhxtmqyrid.onion
 
 Official mirrors link - https://dark-camp.com/
 
