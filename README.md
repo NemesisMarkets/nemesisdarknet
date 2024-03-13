@@ -10,7 +10,7 @@ Nemesis Market is a large and active darknet market and forum with over 1,000 ve
 
 LINK : https://nemesis5a42d6yb6rhsic5scq5kroykitplnzvda33l4gxuhxtmqyrid.onion
 
-Official mirrors link - https://nemesis-markets.com/
+Official mirrors link - https://dark-camp.com/
 
 ![image](https://github.com/NemesisMarkets/nemesisdarknet/assets/160327561/77b05191-7c40-425e-956d-b42a4fdc6000)
 
