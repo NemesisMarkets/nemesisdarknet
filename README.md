@@ -6,11 +6,15 @@ Nemesis Market is a large and active darknet market and forum with over 1,000 ve
 
 ### Nemesis Marketplace Onion Link
 
-[Nemesis Marketplace](http://nemesis5a42d6yb6rhsic5scq5kroykitplnzvda33l4gxuhxtmqyrid.onion)
+- [Abacus Market](http://abacus-markets.com) - `http://abacus7ygil56glanhj3oai2gap6pomy5tevunbvv3lbo3jg7zua7yid.onion`
+  
+- [Archetyp Market](http://4pt4axjmg2gwms2dyakkvyrdt3wr7zygbstfkdkrlz5bkyouhafrbvyd.onion) - `http://4pt4axjmg2gwms2dyakkvyrdt3wr7zygbstfkdkrlz5bkyouhafrbvyd.onion`
 
-LINK : http://nemesis5a42d6yb6rhsic5scq5kroykitplnzvda33l4gxuhxtmqyrid.onion
+- [Ares Market](http://ares3oxm6nb7ucudpp5ezyzffqv6ftg7gq6lttj4yic3wyfqdcj3oyyd.onion) - `http://ares3oxm6nb7ucudpp5ezyzffqv6ftg7gq6lttj4yic3wyfqdcj3oyyd.onion`
+ 
+- [Nemesis Market](http://67yacluggxrd4qxlvmuhvkm4qen767bugxdsfseemxhkohgy5jeh6aad.onion) - `http://67yacluggxrd4qxlvmuhvkm4qen767bugxdsfseemxhkohgy5jeh6aad.onion`
 
-Official mirrors link - https://dark-camp.com/
+Official mirrors link - [https://abacus-markets.com/](http://abacus-markets.com)
 
 ![image](https://github.com/NemesisMarkets/nemesisdarknet/assets/160327561/77b05191-7c40-425e-956d-b42a4fdc6000)
 
